@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables / API keys
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large raw and generated data
+data/raw/
+data/clean/
+data/corrupted/
+data/scenarios/
+
+# Saved ML models
+models/*.pkl
+models/*.joblib
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
