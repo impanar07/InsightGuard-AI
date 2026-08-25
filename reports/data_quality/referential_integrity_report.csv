@@ -1,0 +1,7 @@
+relationship,child_dataset,child_column,parent_dataset,parent_column,evaluated_records,unmatched_records,unmatched_percentage,referential_integrity_score
+orders_customer_integrity,orders,customer_id,customers,customer_id,99441,0,0.0,100.0
+order_items_order_integrity,order_items,order_id,orders,order_id,112650,0,0.0,100.0
+order_items_product_integrity,order_items,product_id,products,product_id,112650,0,0.0,100.0
+order_items_seller_integrity,order_items,seller_id,sellers,seller_id,112650,0,0.0,100.0
+order_payments_order_integrity,order_payments,order_id,orders,order_id,103886,0,0.0,100.0
+order_reviews_order_integrity,order_reviews,order_id,orders,order_id,99224,0,0.0,100.0

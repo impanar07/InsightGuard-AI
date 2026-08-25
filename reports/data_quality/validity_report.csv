@@ -1,0 +1,13 @@
+dataset,column,rule_name,invalid_count,evaluated_count,invalid_percentage,validity_score
+order_items,price,non_negative_price,0,112650,0.0,100.0
+order_items,freight_value,non_negative_freight,0,112650,0.0,100.0
+order_items,order_item_id,positive_order_item_id,0,112650,0.0,100.0
+order_payments,payment_value,non_negative_payment,0,103886,0.0,100.0
+order_payments,payment_installments,non_negative_installments,0,103886,0.0,100.0
+order_payments,payment_sequential,positive_payment_sequence,0,103886,0.0,100.0
+order_reviews,review_score,valid_review_score,0,99224,0.0,100.0
+orders,order_status,valid_order_status,0,99441,0.0,100.0
+products,product_weight_g,non_negative_product_weight,0,32949,0.0,100.0
+products,product_length_cm,non_negative_product_length,0,32949,0.0,100.0
+products,product_height_cm,non_negative_product_height,0,32949,0.0,100.0
+products,product_width_cm,non_negative_product_width,0,32949,0.0,100.0

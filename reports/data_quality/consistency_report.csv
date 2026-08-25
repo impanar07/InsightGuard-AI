@@ -1,0 +1,6 @@
+dataset,rule_name,left_column,right_column,invalid_count,evaluated_count,invalid_percentage,consistency_score
+order_reviews,review_answer_after_creation,review_answer_timestamp,review_creation_date,0,99224,0.0,100.0
+orders,approval_after_purchase,order_approved_at,order_purchase_timestamp,0,99281,0.0,100.0
+orders,carrier_after_purchase,order_delivered_carrier_date,order_purchase_timestamp,166,97658,0.17,99.83
+orders,customer_delivery_after_purchase,order_delivered_customer_date,order_purchase_timestamp,0,96476,0.0,100.0
+orders,estimated_delivery_after_purchase,order_estimated_delivery_date,order_purchase_timestamp,0,99441,0.0,100.0

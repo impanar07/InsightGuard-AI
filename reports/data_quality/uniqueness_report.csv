@@ -1,0 +1,10 @@
+dataset,total_rows,exact_duplicate_rows,exact_duplicate_rate,key_duplicate_rows,key_duplicate_rate,uniqueness_score
+customers,99441,0,0.0,0,0.0,100.0
+geolocation,738332,0,0.0,0,0.0,100.0
+order_items,112650,0,0.0,0,0.0,100.0
+order_payments,103886,0,0.0,0,0.0,100.0
+order_reviews,99224,0,0.0,0,0.0,100.0
+orders,99441,0,0.0,0,0.0,100.0
+products,32951,0,0.0,0,0.0,100.0
+sellers,3095,0,0.0,0,0.0,100.0
+category_translation,71,0,0.0,0,0.0,100.0

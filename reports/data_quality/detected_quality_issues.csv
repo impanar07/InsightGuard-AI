@@ -1,0 +1,15 @@
+dataset,column,issue_type,severity,issue_rate,description
+order_reviews,review_comment_title,missing_values,critical,0.883435,87658 missing values detected in review_comment_title
+order_reviews,review_comment_message,missing_values,critical,0.587297,58274 missing values detected in review_comment_message
+orders,order_delivered_customer_date,missing_values,low,0.029816999999999982,2965 missing values detected in order_delivered_customer_date
+products,product_category_name,missing_values,low,0.018512000000000084,610 missing values detected in product_category_name
+products,product_name_lenght,missing_values,low,0.018512000000000084,610 missing values detected in product_name_lenght
+products,product_description_lenght,missing_values,low,0.018512000000000084,610 missing values detected in product_description_lenght
+products,product_photos_qty,missing_values,low,0.018512000000000084,610 missing values detected in product_photos_qty
+orders,order_delivered_carrier_date,missing_values,low,0.017930000000000113,1783 missing values detected in order_delivered_carrier_date
+orders,order_delivered_carrier_date -> order_purchase_timestamp,consistency_violation,low,0.0017000000000000001,166 records violate consistency rule: carrier_after_purchase
+orders,order_approved_at,missing_values,low,0.0016089999999999716,160 missing values detected in order_approved_at
+products,product_weight_g,missing_values,low,6.100000000008876e-05,2 missing values detected in product_weight_g
+products,product_length_cm,missing_values,low,6.100000000008876e-05,2 missing values detected in product_length_cm
+products,product_height_cm,missing_values,low,6.100000000008876e-05,2 missing values detected in product_height_cm
+products,product_width_cm,missing_values,low,6.100000000008876e-05,2 missing values detected in product_width_cm

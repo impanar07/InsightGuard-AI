@@ -1,0 +1,10 @@
+dataset,completeness_score,uniqueness_score,validity_score,consistency_score,referential_integrity_score,timeliness_score,data_quality_score
+order_reviews,78.9895,100.0,100.0,100.0,100.0,100.0,94.7474
+orders,99.3831,100.0,100.0,99.9577,100.0,99.0129,99.7407
+products,99.1745,100.0,100.0,100.0,100.0,100.0,99.7936
+category_translation,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+order_items,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+geolocation,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+customers,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+order_payments,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+sellers,100.0,100.0,100.0,100.0,100.0,100.0,100.0
