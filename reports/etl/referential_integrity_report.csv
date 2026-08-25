@@ -1,0 +1,7 @@
+relationship,total_child_records,unmatched_records,integrity_valid
+orders.customer_id -> customers.customer_id,99441,0,True
+order_items.order_id -> orders.order_id,112650,0,True
+order_items.product_id -> products.product_id,112650,0,True
+order_items.seller_id -> sellers.seller_id,112650,0,True
+order_payments.order_id -> orders.order_id,103886,0,True
+order_reviews.order_id -> orders.order_id,99224,0,True

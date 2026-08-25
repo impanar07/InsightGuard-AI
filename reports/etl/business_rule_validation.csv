@@ -1,0 +1,6 @@
+dataset,rule,invalid_records
+order_items,price >= 0,0
+order_items,freight_value >= 0,0
+order_payments,payment_value >= 0,0
+order_payments,payment_installments >= 0,0
+order_reviews,review_score between 1 and 5,0
