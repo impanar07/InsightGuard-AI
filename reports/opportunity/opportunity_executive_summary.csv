@@ -1,0 +1,5 @@
+opportunity_category,top_opportunity_score,top_opportunity,high_opportunity_count,total_opportunities,data_quality_score
+Product,85.43,product,1,73,99.36
+Customer,65.66,customer,0,93358,99.36
+Seller,76.37,seller,1,3095,99.36
+Delivery,68.62,delivery,0,27,99.36
